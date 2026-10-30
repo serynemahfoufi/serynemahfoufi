@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Seryne Mahfoufi 👋
 
-<!--
-**serynemahfoufi/serynemahfoufi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Master 2 Student in Bioinformatics & Data Analysis**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I specialize in combining data science, computational biology, and software development to solve biological and data-driven problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔬 About Me
+
+- 🧬 **Focus Areas:** Bioinformatics, Data Science, Computational Biology, Data Analysis
+- 🎓 **Education:** Master 2 in Bioinformatics
+- 💬 **Ask me about:** Python, R, Biological Data Processing, Machine Learning for Biology
+- 📫 **How to reach me:** [serynemahfoufi@gmail.com](mailto:serynemahfoufi@gmail.com)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** Python, R, Bash, SQL
+- **Data Science & ML:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+- **Bioinformatics:** Biopython, Bioconductor, BLAST, Next-Generation Sequencing (NGS) analysis
+- **Tools & Platforms:** Git, GitHub, Linux, Jupyter Notebooks
+
+---
+
+### 🌐 Connect with Me
+
+- 💼 **LinkedIn:** [Seryne Mahfoufi](https://www.linkedin.com/in/seryne-mahfoufi-6a4600280/)
+- 📧 **Email:** [serynemahfoufi@gmail.com](mailto:serynemahfoufi@gmail.com)
